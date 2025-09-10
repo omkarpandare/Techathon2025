@@ -1,5 +1,5 @@
 # Techathon2025
-# PulseAlert  
+# PulseAlert  https://omkarpandare.github.io/Techathon2025/
 
 A real-time disaster alert & communication system built by **Glitch Sena** during Techathon 2025 in AISSMS Pune.  
 
